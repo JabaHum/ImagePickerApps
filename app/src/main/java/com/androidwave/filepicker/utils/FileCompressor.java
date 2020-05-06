@@ -6,6 +6,7 @@ import android.graphics.Bitmap;
 import java.io.File;
 import java.io.IOException;
 import java.util.concurrent.Callable;
+
 import io.reactivex.Flowable;
 
 /**
